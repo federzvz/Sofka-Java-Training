@@ -1,0 +1,9 @@
+
+5
+java:S1659
+"Declare "y" on a separate line.(äÛÁ”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦ÓÊÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔìŞÊùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù¯Üşÿÿÿÿ8­«×í/
+0
+java:S1220""Move this file to a named package.
